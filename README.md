@@ -1,6 +1,6 @@
 # ENSF611-Assignment2-Linear-Models-and-Validation-Metrics-
-# Author: Marie Howell 
-# Date: October 10, 2023
+### Author: Marie Howell 
+### Date: October 10, 2023
 ### In this assignment, you will need to write code that uses linear models to perform classification and regression tasks. You will also be asked to describe the process by which you came up with the code. More details can be found below. Please cite any websites or AI tools that you used to help you with this assignment.
 
 ## Part 1: Classification (14.5 marks total)
